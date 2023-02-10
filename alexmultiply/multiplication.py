@@ -14,7 +14,7 @@ class Multiplication:
         """
         Multiply a given number by the multiplier.
 
-        :param number: The number to multiply.
+        :param number: The number to alexmultiply.
         :type number: int
 
         :return: The result of the multiplication.

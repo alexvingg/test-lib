@@ -1,0 +1,7 @@
+setup.py
+alexmultiply/__init__.py
+alexmultiply/multiplication.py
+alexmultiply.egg-info/PKG-INFO
+alexmultiply.egg-info/SOURCES.txt
+alexmultiply.egg-info/dependency_links.txt
+alexmultiply.egg-info/top_level.txt
