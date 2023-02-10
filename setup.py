@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(
     name='alexmultiply',
@@ -7,5 +7,5 @@ setup(
     url='https://github.com/alexvingg/test-lib',
     author='Alex',
     author_email='alexvingg@gmail.com',
-    packages=['alexmultiply',]
+    packages=find_packages(exclude=['tests', 'tests.*']),
 )
