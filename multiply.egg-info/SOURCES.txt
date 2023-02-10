@@ -1,7 +1,0 @@
-setup.py
-multiply/__init__.py
-multiply/multiplication.py
-multiply.egg-info/PKG-INFO
-multiply.egg-info/SOURCES.txt
-multiply.egg-info/dependency_links.txt
-multiply.egg-info/top_level.txt
