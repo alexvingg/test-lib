@@ -1,8 +1,8 @@
 from setuptools import setup
 
 setup(
-    name='test-lib',
+    name='multiply',
     version='1.0.0',
-    description='test lib project',
+    description='test lib multiply project',
     packages=['multiply',]
 )
